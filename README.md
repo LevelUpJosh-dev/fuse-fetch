@@ -5,7 +5,8 @@ Fuse-fetch the simplist way to add HTML, CSS and JS resources to your applicatio
 ---
 
 ## Example
-![fuse-fetch-example](https://user-images.githubusercontent.com/23381860/200876415-84def23f-9442-4146-8b02-46be15763489.png)
+![carbon (2)](https://user-images.githubusercontent.com/23381860/200898955-20212299-f7c8-441c-a251-376e7e88afe7.png)
+
 
 
 To use this functionality simple include the node package as a script to the head fo your index.html and/or base html file. From there just utilize the new html tag <fuse-fetch> to do a include of a resource 
