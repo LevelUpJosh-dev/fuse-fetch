@@ -1,6 +1,6 @@
 # fuse-fetch
 
-Fuse-fetch the simplist way to add HTML, CSS and JS resources to your application nested within vanilla JS
+Fuse-fetch the simplist way to add HTML, CSS and JS resources to your application nested with vanilla JS
 
 ---
 
