@@ -1,7 +1,7 @@
 {
   "name": "fuse-fetch",
-  "version": "1.0.3",
-  "description": " Allows including HTML, CSS and JS files into an existing HTML page. Allowing for nested modular HTML with no other dependencies. Utilizes a custom web component along with all vanilla JS.",
+  "version": "1.0.6",
+  "description": " Allows including HTML, CSS into an existing HTML page. Allowing for nested modular HTML with no other dependencies. Utilizes a custom web component along with all vanilla JavaScript.",
   "main": "FuseFetch.js",
   "repository": {
     "type": "git",
